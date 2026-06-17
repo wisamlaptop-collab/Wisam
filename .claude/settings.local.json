@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /storage/emulated/0/ai/Claude)",
+      "Read(//Users/dev/workspace-615bec04/**)",
+      "Bash(cp -R package.json tsconfig.json next.config.mjs postcss.config.mjs tailwind.config.ts next-env.d.ts .eslintrc.json .gitignore README.md src /storage/emulated/0/ai/Claude/)"
+    ]
+  }
+}
